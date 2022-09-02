@@ -1,1 +1,1 @@
-hii this is my atom and gitlab config
+hii this is my atom and gitlab configuration
